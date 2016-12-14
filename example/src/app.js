@@ -11,9 +11,19 @@ var App = React.createClass({ // eslint-disable-line
    */
   render: function() {
     var fixtures = [
-      {label: 'New York', location: {lat: 40.7033127, lng: -73.979681}},
-      {label: 'Rio', location: {lat: -22.066452, lng: -42.9232368}},
-      {label: 'Tokyo', location: {lat: 35.673343, lng: 139.710388}}
+      {label: 'Fixture 1', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 2', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 3', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 4', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 5', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 6', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 7', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 8', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 9', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 10', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 11', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 12', location: {lat: 40.7033127, lng: -73.979681}},
+      {label: 'Fixture 13', location: {lat: 40.7033127, lng: -73.979681}}
     ];
 
     return ( // eslint-disable-line

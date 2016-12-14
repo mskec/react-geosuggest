@@ -95,3 +95,7 @@ h1 {
 .ubilabs {
   vertical-align: middle;
 }
+
+.geosuggest__suggests:not(.geosuggest__suggests--hidden) {
+  max-height: 190px;
+}
