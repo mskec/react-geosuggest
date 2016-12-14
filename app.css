@@ -163,3 +163,7 @@ h1 {
 .geosuggest__item--active:focus {
   background: #ccc;
 }
+
+.geosuggest__suggests:not(.geosuggest__suggests--hidden) {
+  max-height: 190px;
+}
